@@ -1,9 +1,9 @@
 :root{
 --primary: #a5c882;
---secondary: #d33f49;
---light: #fff;
+--secondary: #ffffff;
+--light: rgba(243, 60, 194, 0.79);
 --dark: #000;
---diabled: #e7e7e7;
+--diabled: #606060;
 }
 
 body {
